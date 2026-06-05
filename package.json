@@ -1,7 +1,7 @@
 {
-  "name": "@anthropic-ai/claude-code",
-  "version": "0.0.0-leaked",
-  "description": "Anthropic Claude Code CLI — leaked source (2026-03-31). Not an official release.",
+  "name": "@adywongcloud/code.chat",
+  "version": "0.0.0-1",
+  "description": "code.chat cli",
   "license": "UNLICENSED",
   "private": true,
   "type": "module",
